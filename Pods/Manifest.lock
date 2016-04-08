@@ -1,0 +1,36 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ContentfulDeliveryAPI (1.9.6):
+    - AFNetworking (~> 2.5.3)
+    - ISO8601DateFormatter
+  - ISO8601DateFormatter (0.7)
+
+DEPENDENCIES:
+  - ContentfulDeliveryAPI (~> 1.9)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  ContentfulDeliveryAPI: 86f1a69dce907032b92e5ec0fbbf3a0dbd49c588
+  ISO8601DateFormatter: ab926648eebe497f4d167c0fd083992f959f1274
+
+COCOAPODS: 0.39.0
